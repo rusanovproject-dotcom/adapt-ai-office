@@ -18,6 +18,7 @@
 - [SKILL.md](skills/adapt-ai-office/SKILL.md) — принципы и короткий порядок работы.
 - [checklist.md](skills/adapt-ai-office/references/checklist.md) — содержание MD, роутинг, целевая среда и условный блок автоматизаций.
 - [VALIDATION.md](VALIDATION.md) — что проверено и где границы.
+- [TESTING.md](TESTING.md) — поведенческие сценарии и способ повторной проверки.
 
 ## Установка
 
